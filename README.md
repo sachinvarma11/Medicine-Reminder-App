@@ -1,6 +1,6 @@
 
 # Medicine Reminder App
-medicine-reminder-app.us
+https://medicine-reminder-app.us
 
 
 ## Description
