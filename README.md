@@ -1,7 +1,5 @@
 
 # Medicine Reminder App
-https://medicine-reminder-app.us
-
 
 ## Description
 A simple app that helps users set reminders for their medicines.
